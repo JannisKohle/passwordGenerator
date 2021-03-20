@@ -1,2 +1,7 @@
 # passwordGenerator
-a very simple password generator with a rest api
+
+a simple rest api which creates secure passwords
+
+# Usage
+
+xyz
